@@ -5,6 +5,7 @@
     v,V,video   - for video downloading
     m,M,music   - for audio only
     l,L,list    - for downloading list
+    ml,ML       - for aduio only list
 
 
  add URL,Folder,Option to the youtube.txt file
