@@ -1,5 +1,16 @@
 # YoutubeVideoDownloader
- Downloads music video and playlist from youtube
+ Downloads music, videos, and playlists from youtube using yt-dlp
+
+# File paths to check of update
+# Path of the Youtube file
+ yt_dlp   - can be changed for an updated one in your "Python\Scripts\yt-dlp.exe" folder
+ 
+# Path of the Youtube file
+ Youtube  - can be changed to anywhere that you see comfortable
+
+# Path of the Main Folder  
+ savePath - Same as the youtube file can be changed to anywhere you see fit
+
 
 # Options:
     v,V,video   - for video downloading
