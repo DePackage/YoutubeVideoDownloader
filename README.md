@@ -14,14 +14,15 @@
  savePath - Same as the youtube file can be changed to anywhere you see fit
 
 
-# Options:
+# Options and Useage
     v,V,video   - for video downloading
     m,M,music   - for audio only
     l,L,list    - for downloading list
     ml,ML       - for aduio only list
+   add URL,Folder,Option to the youtube.txt file
+  
 
 
- add URL,Folder,Option to the youtube.txt file
 
 # video example:
     https://www.youtube.com/watch?v=x7ZlXD7COMU,Videos,v
